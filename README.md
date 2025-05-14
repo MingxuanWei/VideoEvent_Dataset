@@ -1,51 +1,60 @@
 # VideoEvent_Dataset
 
-A collection of video event annotations and external video links for event recognition research.
+A collection of video event annotations and corresponding video links for event recognition research.
 
 ---
 
 ## 📂 Repository Structure
 
-- `videos/video_list.csv` : List of videos with download links.
-- `annotations/event_annotations.csv` : Event annotations with timestamps and descriptions.
-- `thumbnails/` (optional) : Sample thumbnails or frames.
-- `README.md` : Dataset documentation.
+- `video/video_list.csv` : Contains the list of videos and their corresponding download links.
+- `annotations/event_annotations.csv` : Contains detailed event annotations with video ID, time range, and duration.
+- `README.md` : This documentation file.
 
 ---
 
-## 🎥 Video Data
+## 🎥 Video List
 
-Videos are stored externally on Google Drive and can be accessed via the links in `videos/video_list.csv`.
+All videos are stored externally on Google Drive.  
+You can access the full list and links in [`video/video_list.csv`](video/video_list.csv).
 
 Example:
 
-| Video ID  | Link                                                                |
-|-----------|---------------------------------------------------------------------|
-| V001      | [Download](https://drive.google.com/file/d/xxxx/view?usp=sharing)   |
-| V002      | [Download](https://drive.google.com/file/d/yyyy/view?usp=sharing)   |
+| Video ID | Link                                                             |
+|----------|------------------------------------------------------------------|
+| V001     | [Link](https://drive.google.com/file/d/1ttJ0jipjbrgNj7kbf_fsQqPDUzYt-AR/view?usp=sharing) |
+| V002     | [Link](https://drive.google.com/file/d/1A3TTkXSnK7xDtSwbMgbLmT1n1Qb9vrx5/view?usp=sharing) |
 
 ---
 
 ## 🗂 Event Annotations
 
-| Event                   | Video ID  | Start Time | End Time | Duration (sec) |
-|-------------------------|-----------|------------|----------|----------------|
-| Robots traffic           | V001      | 03:37      | 04:15    | 38             |
-| People lift, snatch bag  | V001      | 04:26      | 05:07    | 41             |
+All events are labeled with:
+- Event description.
+- Time range within the video (`Start Time` - `End Time`).
+- Duration in seconds.
+- Linked `Video ID` referring to `video_list.csv`.
 
-See full annotations in `annotations/event_annotations.csv`.
+See detailed annotations in [`annotations/event_annotations.csv`](annotations/event_annotations.csv).
+
+Example:
+
+| Event                    | Video ID | Start Time | End Time | Duration (sec) |
+|--------------------------|----------|------------|----------|----------------|
+| Robots traffic            | V001     | 03:37      | 04:15    | 38             |
+| Phone snatching           | V002     | 00:33      | 00:59    | 26             |
 
 ---
 
-## 📑 License
+## 🔖 License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+This dataset is shared under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.  
+You are free to use, share, and adapt the dataset with proper attribution.
 
 ---
 
 ## 🤝 Citation
 
 If you use this dataset, please cite:
-> Your Paper Title (Year), Authors, DOI/URL
+> Author Name(s), "VideoEvent_Dataset: A Collection of Video Event Annotations and External Video Links", Year, DOI or URL.
 
 ---
