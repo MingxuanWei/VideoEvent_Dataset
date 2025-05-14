@@ -45,10 +45,4 @@ Example:
 
 ---
 
-## 🔖 License
-
-This dataset is shared under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.  
-You are free to use, share, and adapt the dataset with proper attribution.
-
----
 
