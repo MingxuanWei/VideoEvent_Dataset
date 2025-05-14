@@ -1,0 +1,173 @@
+Event,Range (start time in minutes - end time in minutes),Duration (in seconds),Video clip,Whole Video Link
+Robots traffic,03.37-04.15,38,,V001
+"People Hit,snatch bag and run",04.24-05.07,41,,V001
+Throw trash from car,05.36-06.18,42,,V001
+People Falling,06.58-7.19,21,,V001
+People Hit and run,10.03-10.37,34,,V001
+Theft from car,10.43-11.07,34,,V001
+Car blocking and loading,12.50-13.30,40,,V001
+"Fight, hit and run",14.43-16.34,111,,V001
+Drink & smoke,20.53,43,,V001
+Walking dog & steal e-scoor,23.55-24.26,31,,V001
+Group fighting,,34,,V001
+Robbing Bag,,34,,V002
+Drunk Man,,61,,V002
+People Falling,,14,,V002
+Public Humiliation,,23,,V002
+Phone snatching,,31,,V002
+Taking a Publicly Placed Object,,14,,V002
+Theft from the building,,27,,V002
+Car hit and run,,59,,V002
+E1_rob_escoor,01:03-01:13,10,,V003
+E2_smoking,02:40-03:35,55,,V003
+E3_susipous package,06:25-07:33,68,,V003
+E4_car hit and run,09:09-09:21,12,,V003
+E5_fighting,09:59--10:30,31,,V003
+E6_climbing fence,14:27-14:31,4,,V003
+E7_kidnipping,15:39-16:03,24,,V003
+E8_rob theft phone,16:51-17:03,12,,V003
+E9_throw suspicious package,19:05-19:24,19,,V003
+E10_theft/rob phone,21:27-21:40,13,,V003
+E11_climbing,23:23-23:42,19,,V003
+E12_fighting,24:42-25:23,41,,V003
+E13_jaywalking,27:40-28:04,24,,V003
+E1_smoking,0:58-02:!2,74,,V004
+E2_jaywalking,02:20-02:29,9,,V004
+E4_damage building _ hit by brick,02:30-02:52,22,,V004
+E5_jaywalking,03:03-03:09,6,,V004
+E6_theft bag,05-37-05:55,18,,V004
+E7_damage statue spray,05:54-06:35,41,,V004
+E8_theft bike,06:40-06:55,15,,V004
+E9_illgeal parking,07:10-07:36,20,,V004
+E10_weapon_brick,07:52-08:18,26,,V004
+E11_fighting,08:43-09:08,25,,V004
+E12_group fighting,14:39-15:41,62,,V004
+E13 rigind e_scoor_ peopple falling,17:22-18:09,47,,V004
+E14_bike_hit_and_run,22:07-22:21,13,,V004
+E15_fighting and snatch bag,29:03-29:20,17,,V004
+E1_jaywalking,0:23-0:32,9,,V005
+E2_attack_rob_phone,0:51,,,V005
+E3_jaywaling_climbing fence,01:26-01:44,18,,V005
+E4_climbing fence,02:12-02:33,11,,V005
+E5_kidnipping,11:04-11:29,25,,V005
+E6_walking dog,12:22-12:40,18,,V005
+E7_suspious pakage,16:05-16:44,39,,V005
+E8_rob people_snatching bag,18:42-18:55,13,,V005
+E9_harassment,18:47-20:39,44,,V005
+E10_damage golf cart,21:18-21:27,9,,V005
+E11_rob,24:43-25:19,36,,V005
+E1_people smoking,0-0:26,26,,V006
+E2_jaywalking,02:27- 02:35,8,,V006
+E3_jaywalking,02:49-02:56,7,,V006
+E4_car_in_wrong_way,02:57-04:10,73,,V006
+E5_theft bicycle,06:41-07:00,19,,V006
+E6_damage building,07:21-07:35,14,,V006
+E7_theft trash bin,13:01-13:08,7,,V006
+E8_people falling,,23,,V006
+E9_drunk people,18:14-18:48,34,,V006
+E10_climbing object,23:10-23:22,12,,V006
+E1_riding e-scoor,0:26-0:43,17,,V007
+E2_damage building playing in wrong space,0:57-1:39,42,,V007
+E3_rob_theft_and_run,02:19-02:36,17,,V007
+E4_riding bike,05:28-05:43,15,,V007
+E5_bully_assualy,05:47-06:07,22,,V007
+E6_riding bike,06:37-07:16,39,,V007
+E7_leave bag behind,07:29-08:03,34,,V007
+E8_attack people,08:12-08:27,15,,V007
+E9_damage building spray and riding e-scoor,09:28-09:50,22,,V007
+E10_theft from people,13:11-14:05,54,,V007
+E11_bike hit and run,15:56-16:48,52,,V007
+E12_ attack hit people and run,21:37-21:52,15,,V007
+E1_climbing tree,1:11 - 1:36,25,,V008
+E2_theft from car,02:41 - 03:51,65,,V008
+E3_kidnipping,06:20 -06:29,19,,V008
+E4_car hit and run,08:53-09:13,20,,V008
+E5_car hit and run,14:45-14:55,10,,V008
+E6_drunk people,16:33-17:40,67,,V008
+E7_block people_assult,24:54 - 25:21,27,,V008
+E1_illegal Parking,02.11-02.49,39,,V009
+E2_ Car_bike_hit_and _run,03.45-04.15(hit view)- 05.05(car run ->blocking?),79,,V009
+E3_person_skateboard,05.35-05.41,6,,V009
+E4_people_robbey_phone,08.58-09.14,16,,V009
+E5_Jaywalking_play_football_in_the_middle_of_the_road,13:38-14.17,39,,V009
+E6_snatching bag,16:07-16:19,13,,V009
+E7_two drunk men,17:59-18.45,46,,V009
+E8_fighting_illegal parking,23:43-24.15,37,,V009
+E1_unleashed dog,00:06-0:50,44,,V010
+E2_unleased cat_people throw cat,02:04-03:00,56,,V010
+E3_Jaywalking_looking_suspious,05:28-05:42,14,,V010
+E4_people falling,07:03-07:29,26,,V010
+E5_people falling,08:19-08-31,12,,V010
+E6_unleashed dog,09:22-09:50,28,,V010
+E7_carrying suspicious bag_leave_bag,10:45-11:05,20,,V010
+E8_people falling,16:10-16:42,30,,V010
+E9_rob_stalking,27:14-27:58,44,,V010
+Throw trash from car,,,,V011
+People Falling,,,,V011
+Try to Theft from car,,,,V011
+"Fight, hit and run",,,,V011
+Theft e-scooter,,,,V011
+Drink & smoke,,,,V011
+Group fight,,,,V011
+E1-theft form building,0:18-0:27,9,,V012
+E2_walking dog,1:45-1:59,15,,V012
+"E3_rob people,kinfe",10:21-11:04,43,,V012
+"E4_rob people,weapon",12:12-12:45,34,,V012
+E5_smoking and arson,14:03-14:18,15,,V012
+E6_damagebuilding_spray,15:31-16:25,54,,V012
+E7-attack_escooer,16:56-18:28,32,,V012
+E8_group fighting,21:14-22:23,69,,V012
+E1_Smoking with a no-smoke sign,0-0:40,40,,V013
+E2_Theft from car,01:48-02:44,56,,V013
+E3_car in wrong way,03:56-04:10,53,,V013
+E4_ drunk man,5:34-06:30,,,V013
+E5_2 people rob one person's bag,08:34-08:59,25,,V013
+E6_damage_building_paint on the wall,11:45 -12:17,33,,V013
+E7_robbery,15:22-15:47,25,,V013
+E8_drunk 2 people,19:54 -20:15,21,,V013
+E9_people lying,23:18-23:48,30,,V013
+E1_assualt_attack people by ball,0:17-0:44,27,,V014
+E2_hit_and_run,03:16-03:26,10,,V014
+E3_people lying and drunk,05:55-06:17,23,,V014
+E4_kidnipping,11:49-12:16,27,,V014
+E5_Suspicious pakage,17:53-18:25,32,,V014
+E6_robots wrong: shake/stop view,20:57 -21:50,53,,V014
+E7_theft from people,23:43-23:56,13,,V014
+E1-robots viewport stop/changed,11:27-11:45,18,,V015
+E2_assulat/,15:39-15:57,18,,V015
+E1_inpropoer action (dance)_maybe medical issue,0:24-01:00,36,,V016
+E2_people lying on the ground,2:17-03:57,60,,V016
+E3_people leave a bag,06:28-06:44,16,,V016
+E4_breake car/ theft from the car,08:43-09:13,35,,V016
+E5_fighting_2 people_rob,13:09-13:30,21,,V016
+E6_carrying and putting suspicious objects into the forbidden area,15:21-15:32,11,,V016
+E7_people falling down,16:37–16:58,21,,V016
+E8_assault,20:23-20:52,29,,V016
+E9_smoking drug,26:03-26:25,22,,V016
+E10_vandaism building_ try_to_break_into_the_video,28:03-29:00,57,,V016
+E1_rob bag,01:47-02:00,13,,V017
+E2_assualt_ abuse_hurt some one,03:55-04:52,57,,V017
+E3_assualt_blind people,05:55-06:45,32,,V017
+E4_crowd gathering_for music(no viloent),09:24-10:00,46,,V017
+E5_shooting_gun_rob,11:40-12:05,25,,V017
+E6_drunk_drinking,14:30-14:55,25,,V017
+E7_fight,17:55-18:04,9,,V017
+E1_group_fighting_brawing,03:44-04:23,47,,V018
+E2_arson_lighting_paper,06:55-07:10,20,,V018
+E3_arson_firelighting,9:49-10:-00,11,,V018
+E4_theft_public staff,13:00 - 13:18,18,,V018
+E5_smoking_drug,15:03-15:24,21,,V018
+E6_assualt_attack,19:53-19:05,17,,V018
+E7_people falling,23:53-25:00,67,,V018
+E1_harresment stalking,03:00-04:33,93,,V019
+E2_fighting_3ppl,04:32-05:00,28,,V019
+E3_assualt_hit_and_run_people_falling,07:05-07:29,23,,V019
+E4_harresment stalking,11:38-14:42,186,,V019
+E5_weapon(gun) holding_assualt_people_faling,19:32-19:50,25,,V019
+E6_fight_grouop_brawling,25:47 - 26:43,56,,V019
+E7_susiposious bag_switching_bag,28:27 - 28:39,14,,V019
+E1_Theft from car,0:12-0:21,9,,V020
+E2_blocking people_assualt_harresment,05:25-05:45,20,,V020
+E3_drunk+assualt_rob_phone,11:20-11:56,36,,V020
+E4_Prohibited U-turns_inpropreiate driving,26:40-27:34,54,,V020
+E5_Prohibited U-turns,28:35-29:05,30,,V020
