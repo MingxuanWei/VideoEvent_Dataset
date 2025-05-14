@@ -1,38 +1,45 @@
 # VideoEvent_Dataset
 
-A collection of video event annotations and corresponding video clips for event recognition research.  
-Videos are stored externally and referenced via links in this repository.
+A collection of video event annotations and external video links for event recognition research.
 
 ---
 
-## 📂 Structure
+## 📂 Repository Structure
 
-- `videos/video_list.csv` : Contains video links and metadata.
-- `annotations/` : Contains event annotations (CSV, JSON).
-- `README.md` : Documentation of the dataset.
+- `videos/video_list.csv` : List of videos with download links.
+- `annotations/event_annotations.csv` : Event annotations with timestamps and descriptions.
+- `thumbnails/` (optional) : Sample thumbnails or frames.
+- `README.md` : Dataset documentation.
 
 ---
 
 ## 🎥 Video Data
 
-| Video ID  | Description         | Link                                  |
-|-----------|---------------------|----------------------------------------|
-| V001      | Zone 1 Day Patrol   | [Download](https://your-storage.com/V001.mp4) |
-| V002      | Zone 2 Night Patrol | [Download](https://your-storage.com/V002.mp4) |
+Videos are stored externally on Google Drive and can be accessed via the links in `videos/video_list.csv`.
 
-**Note**: All videos are hosted on external storage and can be accessed via the links above.
+Example:
 
----
-
-## 📑 Event Annotations
-
-Please see `annotations/event_annotations.csv` for event labels and descriptions.
+| Video ID  | Link                                                                |
+|-----------|---------------------------------------------------------------------|
+| V001      | [Download](https://drive.google.com/file/d/xxxx/view?usp=sharing)   |
+| V002      | [Download](https://drive.google.com/file/d/yyyy/view?usp=sharing)   |
 
 ---
 
-## 🔖 License
+## 🗂 Event Annotations
 
-This dataset is shared under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+| Event                   | Video ID  | Start Time | End Time | Duration (sec) |
+|-------------------------|-----------|------------|----------|----------------|
+| Robots traffic           | V001      | 03:37      | 04:15    | 38             |
+| People lift, snatch bag  | V001      | 04:26      | 05:07    | 41             |
+
+See full annotations in `annotations/event_annotations.csv`.
+
+---
+
+## 📑 License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -42,4 +49,3 @@ If you use this dataset, please cite:
 > Your Paper Title (Year), Authors, DOI/URL
 
 ---
-
