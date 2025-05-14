@@ -52,9 +52,3 @@ You are free to use, share, and adapt the dataset with proper attribution.
 
 ---
 
-## 🤝 Citation
-
-If you use this dataset, please cite:
-> Author Name(s), "VideoEvent_Dataset: A Collection of Video Event Annotations and External Video Links", Year, DOI or URL.
-
----
